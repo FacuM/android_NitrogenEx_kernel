@@ -1,7 +1,7 @@
 ui_print(" This is an experimental build, don't  ");
 ui_print(" share it nor report public bugs.      ");
 ui_print("                                       ");
-ui_print("                 exp_0.1                 ");
+ui_print("                 exp_0.1               ");
 ui_print("                                       ");
 ui_print("=> It's possible thanks to: ");
 ui_print("- Nitrogen Team");
